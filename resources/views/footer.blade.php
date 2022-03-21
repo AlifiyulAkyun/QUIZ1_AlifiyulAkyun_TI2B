@@ -1,5 +1,4 @@
-@extends('home')
-@section('footer')
+
 <!-- Start Footer  -->
 <footer>
         <div class="footer-main">
@@ -55,4 +54,4 @@
         </div>
     </footer>
     <!-- End Footer  -->
-    @endsection
+   
