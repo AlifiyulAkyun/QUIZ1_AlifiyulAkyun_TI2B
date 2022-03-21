@@ -98,7 +98,7 @@
     </div>
     <!-- End Main Top -->
     @include('header')
-    @yield('header')
+  
 
     <!-- Start Top Search -->
     <div class="top-search">
@@ -158,7 +158,7 @@
         </div>
     </div>
     <!-- End Slider -->
-    @yield('content')
+ 
     @include('content')
 
    
@@ -321,8 +321,7 @@
         </div>
     </div>
     <!-- End Instagram Feed  -->
-    @yield('footer')
-
+  
     @include('footer')
 
     <!-- Start copyright  -->
