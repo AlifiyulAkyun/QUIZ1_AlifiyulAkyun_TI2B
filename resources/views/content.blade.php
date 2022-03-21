@@ -1,5 +1,4 @@
-@extends('home')
-@section('content')
+
  <!-- Start Categories  -->
  <div class="categories-shop">
         <div class="container">
@@ -158,4 +157,4 @@
         </div>
     </div>
     <!-- End Products  -->
-    @endsection
+   
