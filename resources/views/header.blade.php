@@ -1,5 +1,4 @@
-@extends('home')
-@section('header')
+
 <!-- Start Main Top -->
 <header class="main-header">
         <!-- Start Navigation -->
@@ -129,4 +128,3 @@
         <!-- End Navigation -->
     </header>
     <!-- End Main Top -->
-  @endsection
